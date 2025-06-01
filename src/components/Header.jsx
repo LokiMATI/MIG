@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import Icon from '../assets/Icon.png';
+import Icon from '../assets/Icon.webp';
 
 const theme = {
     colors: {
